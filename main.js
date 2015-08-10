@@ -50,6 +50,6 @@ function isAlexMale(x){
 var resfunct2=isAlexMale(sex);
 console.log(resfunct2);
 
-
+//Test
 
 
