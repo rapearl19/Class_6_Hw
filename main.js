@@ -50,6 +50,12 @@ function isAlexMale(x){
 var resfunct2=isAlexMale(sex);
 console.log(resfunct2);
 
+var iterations["one", "two", "three", "four", "five"];
+
+//iterations
+for (i=0, i<4,i++){
+	console.log(interations);
+}
 //Test
 
 
